@@ -1,0 +1,6 @@
+Pillow>=10.0
+requests>=2.31
+pillow-heif>=0.16   # optional: iPhone HEIC photos
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
